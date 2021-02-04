@@ -1,5 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
 /* This file is for your main application css. */
-@import "./phoenix.css";
+/*@import "./phoenix.css";*/
 
 /* Alerts and form errors */
 .alert {
